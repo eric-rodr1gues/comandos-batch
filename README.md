@@ -58,4 +58,4 @@ Aprendi novos comandos que são o: if, for, else e set. Aprendi como criar e usa
 ---
 **Considerações Finais**
 
-A criação do código foi um processo bem difícil e complicado, mas com bastante esforço, fui entendendo e aprendendo o que cada comando fazia. Mas durante todo o desenvolvimento fui aprendendo bastante e aumentando o meu conhecimento sobre os códigos, aproveitei para aprender e decobrir mais coisas, desse modo gostei bastante da atividade, pois consegui superar desafios que antes eram "impossíveis".
+A criação do código foi um processo bem difícil e complicado, mas com bastante esforço, fui entendendo e aprendendo o que cada comando fazia. Aprendi bastante e aumentei o meu conhecimento sobre os códigos, consegui decobrir muitas coisas novas que me tiram da zona de conforto, desse modo gostei bastante da atividade, pois consegui superar desafios que antes eram "impossíveis".

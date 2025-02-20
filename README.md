@@ -54,3 +54,8 @@ Em questão de melhorias, algo que deve ser aprimorado é a questão do cálculo
 **O que aprendi**
 
 Aprendi novos comandos que são o: if, for, else e set. Aprendi como criar e usar variáveis, resolver problemas, melhorei também meu raciocínio lógico, aprendi a colocar cáculos dentro do código e a criar meu próprio calendário por meio de pastas e diretórios. 
+
+---
+**Considerações Finais**
+
+A criação do código foi um processo bem difícil e complicado, mas com bastante esforço, fui entendendo e aprendendo o que cada comando fazia. Mas durante todo o processo fui aprendendo bastante e aumentando o meu conhecimento sobre os códigos, aproveitei para aprender e decobrir mais coisas, desse modo gostei bastante da atividade, pois consegui superar desafios que antes eram "impossíveis".

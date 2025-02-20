@@ -46,11 +46,11 @@ Logo, o comando "for" repete a instrução de começar com o valor 1, ir aumenta
 Durante o processo de fazer o script, pessoalmente, foi bem desafiador para conseguir entender como cada comando funcionava e a função deles exatamente, também foi difícil escrever os comandos do jeito correto e de modo que tudo funcionasse em harmonia e corretamente. Mas consegui solucionar esses problemas perguntando aos professores e colegas como cada parte funciona.
 
 ---
-**O que aprendi**
-
-Aprendi novos comandos que são o: if, for, else e set. Aprendi como criar e usar variáveis, resolver problemas, melhorei também meu raciocínio lógico, aprendi a colocar cáculos dentro do código e a criar meu próprio calendário por meio de pastas e diretórios. 
-
----
 **Possíveis Melhorias**
 
 Em questão de melhorias, algo que deve ser aprimorado é a questão do cálculo dos anos bissextos, pois os cálculos têm dado errado, então é uma melhoria que precisa ser feita.  
+
+---
+**O que aprendi**
+
+Aprendi novos comandos que são o: if, for, else e set. Aprendi como criar e usar variáveis, resolver problemas, melhorei também meu raciocínio lógico, aprendi a colocar cáculos dentro do código e a criar meu próprio calendário por meio de pastas e diretórios. 

@@ -19,4 +19,4 @@ Assim uma variável com o valor de 31 foi criada, podendo ser usada ao londo do 
 
 Ou seja, o comando verificará se a variável "%1" já existe, caso ela não exista, será criada.
 
-```else```: O comando "else" acompanha o comando "if" e, assim como ele, é um comando condicional
+- ```else```: O comando "else" acompanha o comando "if" e, assim como ele, é um comando condicional. 
